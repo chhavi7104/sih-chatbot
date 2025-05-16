@@ -27,6 +27,7 @@ Each intent in the dataset is structured like this:
   "responses": ["Chacha says: Looks like a sunny day in Haridwar!", "No rain in Varanasi today, enjoy your trip!"],
   "context_set": "weather"
 }
+```
 
 - tag: Unique ID for the intent
 
@@ -42,18 +43,22 @@ Clone this repo:
 ```bash
 git clone https://github.com/your-repo/ganga-tour-chatbot
 cd ganga-tour-chatbot
+```
 Install dependencies (Python example):
 
 ```bash
 pip install nltk tensorflow flask
+```
 Train the model (if using an ML backend):
 
 ```bash
 python train_chatbot.py
+```
 Run the chatbot:
 
 ```bash
 python app.py
+```
 Access via browser at: http://localhost:5000
 
 **🧠 Future Enhancements**
