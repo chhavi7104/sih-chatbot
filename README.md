@@ -42,24 +42,25 @@ Clone this repo:
 
 ```bash
 git clone https://github.com/your-repo/ganga-tour-chatbot
-cd ganga-tour-chatbot
+cd chatbot
 ```
 Install dependencies (Python example):
 
 ```bash
-pip install nltk tensorflow flask
+pip install nltk tensorflow flask numpy kesar
 ```
 Train the model (if using an ML backend):
 
 ```bash
-python train_chatbot.py
+python bot.py
+python chat.py
 ```
 Run the chatbot:
 
 ```bash
 python app.py
 ```
-Access via browser at: http://localhost:5000
+Access via browser at: http://127.0.0.1:5000
 
 **🧠 Future Enhancements**
 - Integrate real-time weather APIs
