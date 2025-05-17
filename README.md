@@ -41,7 +41,7 @@ Each intent in the dataset is structured like this:
 Clone this repo:
 
 ```bash
-git clone https://github.com/your-repo/ganga-tour-chatbot
+git clone https://github.com/chhavi7104/sih-chatbot.git
 cd chatbot
 ```
 Install dependencies (Python example):
