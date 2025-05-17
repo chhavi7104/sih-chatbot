@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ganga chatbot</title>
+  <link rel="stylesheet" href="static/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="chat-wrapper">
+     <div class="left-gif">
+      <img src="static/images/eating-yummy-unscreen.gif" alt="Assistant GIF" />
+    </div>
+     <div class="chat-container">
+    <header class="chat-header">
+      <h2>Ganga ki Tarang Chaudhary ke Sang  </h2>
+      <button id="clear-btn" title="Clear Chat">Clear Chat</button>
+    </header>
+
+    <main id="chatbox" class="chatbox"></main>
+
+    <div id="typing-indicator" class="typing-indicator" hidden>
+      <span class="dot"></span><span class="dot"></span><span class="dot"></span> Bot is typing...
+    </div>
+
+    <form id="chat-form" class="chat-form" autocomplete="off">
+      <input id="user-input" type="text" placeholder="Type your message here..." required autofocus />
+      <button type="submit" aria-label="Send Message">Send</button>
+    </form>
+  </div>
+</div>
+  <script src="static/script.js"></script>
+</body>
+</html>
