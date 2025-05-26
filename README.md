@@ -1,4 +1,4 @@
-# sih-chatbot
+# Sih-Chatbot
 <p> a chatbot based on ganga and its culture  </p>
 
 # 🧳Chacha Chaudhary Ganga Tour Guide Chatbot
