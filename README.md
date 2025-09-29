@@ -14,6 +14,7 @@ This friendly assistant, inspired by the legendary Indian comic character **Chac
 - 🏞️ **Supports queries** about weather, places to visit, local time, and general help  
 - 📚 **Context-aware responses** (e.g., follow-up questions on weather)
 
+
 ---
 
 ## 📁 Dataset Structure
