@@ -4,7 +4,6 @@
 # 🧳 Chacha Chaudhary Ganga Tour Guide Chatbot
 Welcome to the **Chacha Chaudhary Ganga Tour Guide Chatbot**!  
 This friendly assistant, inspired by the legendary Indian comic character **Chacha Chaudhary**, helps tourists explore the beauty, culture, and attractions along the **Ganga River across Indian states**.
-
 ---
 
 ## 🌟 Features
