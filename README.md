@@ -1,5 +1,5 @@
 # Sih-Chatbot (Smart India Hackathon)
-<p> A chatbot based on ganga river and its culture. </p>
+<p> A **chatbot** based on ganga river and its culture. </p>
 
 
 
