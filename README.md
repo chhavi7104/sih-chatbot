@@ -2,8 +2,6 @@
 
  A **Chatbot** based on ganga river and its culture. 
 
-
-
 # 🧳 Chacha Chaudhary Ganga Tour Guide Chatbot
 
 Welcome to the **Chacha Chaudhary Ganga Tour Guide Chatbot**!  
