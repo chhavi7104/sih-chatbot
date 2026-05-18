@@ -1,5 +1,4 @@
 # Sih-Chatbot (Smart India Hackathon)
-
 A **Chatbot** based on ganga river and its culture. 
 
 # 🧳 Chacha Chaudhary Ganga Tour Guide Chatbot
